@@ -1,0 +1,61 @@
+id,name,latitude,longitude,type,altitude,radius,connections
+WP_01,Chhatrapati Central Skyport,19.0886,72.8679,hub,150,0,WP_02;WP_05;WP_08
+WP_02,BKC Financial Vertiport,19.0657,72.8687,terminal,120,0,WP_01;WP_03;WP_06
+WP_03,Dharavi Skyway Relay,19.0435,72.8550,relay,100,0,WP_02;WP_04;WP_07
+WP_04,Dadartown Logistics Depot,19.0178,72.8478,depot,80,0,WP_03;WP_09;WP_10
+WP_05,Kurla Transit Interchange,19.0688,72.8911,hub,110,0,WP_01;WP_06;WP_11
+WP_06,Chembur East Sky Terminal,19.0622,72.9034,terminal,95,0,WP_02;WP_05;WP_12
+WP_07,Lower Parel Tech Depot,18.9950,72.8300,depot,85,0,WP_03;WP_08;WP_13
+WP_08,Worli Seaface Vertipad,19.0166,72.8175,landing,70,0,WP_01;WP_07;WP_14
+WP_09,Prabhadevi Air Corridor,19.0144,72.8288,relay,90,0,WP_04;WP_08;WP_15
+WP_10,Byculla Central Distribution,18.9750,72.8350,depot,80,0,WP_04;WP_13;WP_16
+WP_11,Ghatkopar Sky Cargo Hub,19.0860,72.9090,hub,130,0,WP_05;WP_12;WP_17
+WP_12,Deonar Transit Terminal,19.0550,72.9180,terminal,95,0,WP_06;WP_11;WP_18
+WP_13,Mumbai Central Sky Station,18.9690,72.8190,terminal,105,0,WP_07;WP_10;WP_19
+WP_14,Mahalaxmi Air Dispatch,18.9830,72.8220,depot,85,0,WP_08;WP_13;WP_20
+WP_15,Shivaji Park UAV Relay,19.0270,72.8380,relay,95,0,WP_09;WP_04;WP_21
+WP_16,Mazgaon Maritime Vertipad,18.9680,72.8490,landing,75,0,WP_10;WP_22;WP_23
+WP_17,Vikhroli Tech Corridor,19.1110,72.9280,hub,140,0,WP_11;WP_18;WP_24
+WP_18,Mankhurd Gateway Terminal,19.0480,72.9320,terminal,90,0,WP_12;WP_17;WP_25
+WP_19,Girgaon Chowpatty Vertipad,18.9540,72.8120,landing,70,0,WP_13;WP_20;WP_26
+WP_20,Malabar Hill Sky Relay,18.9580,72.7990,relay,115,0,WP_14;WP_19;WP_27
+WP_21,Bandra West Coastal Pad,19.0550,72.8280,terminal,85,0,WP_15;WP_02;WP_28
+WP_22,Wadala Airfreight Depot,19.0210,72.8690,depot,90,0,WP_16;WP_05;WP_29
+WP_23,Fort Commercial Sky Terminal,18.9340,72.8370,hub,125,0,WP_16;WP_26;WP_30
+WP_24,Bhandup Logistics Hub,19.1430,72.9370,depot,85,0,WP_17;WP_31;WP_32
+WP_25,Vashi Creek Air Crossing,19.0620,72.9750,hub,110,0,WP_18;WP_33;WP_34
+WP_26,Colaba South Vertiport,18.9070,72.8150,terminal,95,0,WP_19;WP_23;WP_35
+WP_27,Walkeshwar Ridge Relay,18.9480,72.7950,relay,105,0,WP_20;WP_19;WP_36
+WP_28,Khar West Distribution,19.0700,72.8340,depot,80,0,WP_21;WP_37;WP_38
+WP_29,Sion Fort Sky Intercept,19.0460,72.8630,relay,95,0,WP_22;WP_03;WP_39
+WP_30,Nariman Point Executive Pad,18.9260,72.8230,landing,70,0,WP_23;WP_26;WP_40
+WP_31,Mulund Industrial Terminal,19.1720,72.9560,terminal,100,0,WP_24;WP_32;WP_41
+WP_32,Nahur Air Cargo Station,19.1550,72.9460,depot,85,0,WP_24;WP_31;WP_42
+WP_33,Sanpada Skyway Hub,19.0680,73.0080,hub,120,0,WP_25;WP_34;WP_43
+WP_34,Nerul Air Transit Depot,19.0340,73.0180,terminal,90,0,WP_25;WP_33;WP_44
+WP_35,Cuffe Parade Coastal Relay,18.9140,72.8220,relay,80,0,WP_26;WP_30;WP_40
+WP_36,Breach Candy Medical Pad,18.9710,72.8050,landing,75,0,WP_27;WP_20;WP_14
+WP_37,Santacruz Domestic Vertiport,19.0830,72.8420,hub,135,0,WP_28;WP_01;WP_45
+WP_38,Juhu Aerodrome Sky Link,19.0980,72.8310,terminal,90,0,WP_28;WP_37;WP_46
+WP_39,Antop Hill Distribution Pad,19.0280,72.8720,depot,85,0,WP_29;WP_22;WP_06
+WP_40,Marine Drive Skyway,18.9430,72.8240,relay,90,0,WP_30;WP_35;WP_23
+WP_41,Thane South Border Depot,19.1860,72.9750,hub,110,0,WP_31;WP_47;WP_48
+WP_42,Airoli Tech Corridor,19.1590,72.9980,terminal,100,0,WP_32;WP_41;WP_49
+WP_43,Juinagar Express Airway,19.0520,73.0230,relay,95,0,WP_33;WP_44;WP_50
+WP_44,Belapur CBD Vertiport,19.0180,73.0410,hub,125,0,WP_34;WP_43;WP_50
+WP_45,Vile Parle Cargo Station,19.0990,72.8440,depot,85,0,WP_37;WP_38;WP_46
+WP_46,Andheri East Logistics Hub,19.1150,72.8680,hub,140,0,WP_45;WP_38;WP_01
+WP_47,Kalyan Gateway Air Terminal,19.2430,73.1350,terminal,105,0,WP_41;WP_48;WP_49
+WP_48,Dombivli Air Corridor,19.2180,73.0860,relay,90,0,WP_41;WP_47;WP_50
+WP_49,Ghansoli Drone Park,19.1250,73.0080,depot,80,0,WP_42;WP_47;WP_43
+WP_50,Kharghar Hills Aerial Way,19.0450,73.0670,landing,120,0,WP_43;WP_44;WP_48
+NFZ_01,CSM International Airport Airspace,19.0896,72.8656,nfz,0,650,
+NFZ_02,Naval Dockyard Security Zone,18.9280,72.8420,nfz,0,450,
+NFZ_03,Trombay Nuclear Facility Buffer,19.0120,72.9150,nfz,0,700,
+NFZ_04,Raj Bhavan Presidential Perimeter,18.9450,72.7950,nfz,0,350,
+NFZ_05,Mantralaya Government Secretariat,18.9295,72.8285,nfz,0,300,
+NFZ_06,Juhu Civil Aviation Buffer,19.0980,72.8330,nfz,0,500,
+NFZ_07,Sanjay Gandhi National Park Sanctuary,19.2150,72.9150,nfz,0,850,
+NFZ_08,Antop Hill Military Ammunition Depot,19.0250,72.8650,nfz,0,400,
+NFZ_09,Sewri Flamingo Conservation Mudflats,18.9980,72.8620,nfz,0,500,
+NFZ_10,Elephanta Island Heritage Airspace,18.9630,72.9310,nfz,0,600,
